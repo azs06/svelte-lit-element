@@ -10,5 +10,5 @@
 <div>
     <h1>Hello, World</h1>
     <my-element count={count}></my-element>
-    <button on:click={increment}>+</button>
+    <button on:click={increment}>Svelte +</button>
 </div>
